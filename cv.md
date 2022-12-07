@@ -37,15 +37,15 @@ console.log (arr);
 
 ## **Education**
 
-#### October 2021 - January 2022 – Educational Center for Programming and High Tech (IT-Academy)
+#### *October 2021 - January 2022* – Educational Center for Programming and High Tech (IT-Academy)
 #### Course: Functional software testing.
 #### Description: learning of theory and practice of functional testing.
 
-#### September 2021 – Educational Center for Programming and High Tech (IT-Academy).
+#### *September 2021* – Educational Center for Programming and High Tech (IT-Academy).
 #### Course: Computer Science Basics.
 #### Description: learned the basics of algorithms, the basics of JS.
 
-#### 2007 – 2012 – Gomel State Technical University
+#### *2007 – 2012* – Gomel State Technical University
 #### Specialization: marketing.
 
 ## **Languages**
