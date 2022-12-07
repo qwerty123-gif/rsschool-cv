@@ -2,7 +2,6 @@
 
 ##### **Phone:** +375 44 572 95 57
 ##### **Email:** zankevichmaria@gmail.com
-##### **Telegram:** @MariaZankevich
 ##### **Linkedin:** www.linkedin.com/in/zankevichmaria
 ##### **GitHub:** qwerty123-gif
 ##### **Discord:** qwerty123-gif#9763
@@ -13,7 +12,7 @@
 
 ## **Skills**
 
-#### *Database Management: MySQL
+#### *Database Management: MySQL, SQLite
 #### *Version control: Git
 #### *JS(basic knowledge), Java(basic knowledge)
 #### *Editor: VSCode, IntelliJ IDEA
